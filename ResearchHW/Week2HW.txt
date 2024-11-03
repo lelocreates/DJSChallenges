@@ -1,0 +1,2 @@
+Homework: What are race conditions and what about them makes them so "bad" ?
+
